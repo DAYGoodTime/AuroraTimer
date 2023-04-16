@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AuroraTimer.iml" filepath="$PROJECT_DIR$/AuroraTimer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TimerUpdate/TimerUpdate.iml" filepath="$PROJECT_DIR$/TimerUpdate/TimerUpdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AuroraTimer.iml" filepath="$PROJECT_DIR$/.idea/AuroraTimer.iml" />
     </modules>
   </component>
 </project>

@@ -1,1 +1,0 @@
-java -jar D:\workspace\IdeaProjects\AuroraTimer\out\artifacts\AuroraTimer\AuroraTimer.jar
